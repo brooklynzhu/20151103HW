@@ -23,7 +23,7 @@
 
 # Basic Git commands
 * `git init` : initiate. this creates a hidden .git folder in that particular directory.
-* `git add .` : staging the latest edits you have made to your code.
+* `git add .` : committing the latest edits you have made to your code.
 * `git add hello.txt` : staging that particular file to your git repository.
 * `git status` : seeing which files have been modified/which files have been added/which files need to be added
 * `git commit -m 'created hello.txt` : committing a modification and giving it a particular description
