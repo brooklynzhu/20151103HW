@@ -3,7 +3,7 @@
 * `/` : This symbol means "root", the ultimate parent directory. This exists even before "home."
 * `whoami` : This makes the terminal output the current user name.
 * `pwd` : print working directory. This shows you the entire path of the directory you are currently in. Use this if you get lost in the network of directories.
-* `cd` : current directory. This helps you navigate between various directories
+* `cd` : change directory. This helps you navigate between various directories
 * `ls` :  list. This shows you all of the files AND directories that are in the directory you are currently in. adding a "-a" will show you all of the hidden "." directories.
 * `cd ..` : this navigates you to the directory immediately above the current directory you are in.
 * `mkdir` : make directory: create a new directory.
@@ -23,7 +23,7 @@
 
 # Basic Git commands
 * `git init` : initiate. this creates a hidden .git folder in that particular directory.
-* `git add .` : committing the latest edits you have made to your code.
+* `git add .` : adding the latest edits you have made to your code.
 * `git add hello.txt` : staging that particular file to your git repository.
 * `git status` : seeing which files have been modified/which files have been added/which files need to be added
 * `git commit -m 'created hello.txt` : committing a modification and giving it a particular description
