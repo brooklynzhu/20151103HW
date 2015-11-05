@@ -27,4 +27,4 @@
 * `git add hello.txt` : staging that particular file to your git repository.
 * `git status` : seeing which files have been modified/which files have been added/which files need to be added
 * `git commit -m 'created hello.txt` : committing a modification and giving it a particular description
-* `git push origin master` : pushing any edits you've made up to the cloud server.
+* `git push origin master` : pushing any edits/modifications you've made up to the cloud server.
